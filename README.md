@@ -1,4 +1,4 @@
-|Pipex|
+### | Pipex
 
 # Description
 Pipex is a program that simulates the functionality of the shell pipe operator (|). It takes four arguments: two filenames and two shell commands. The program reads from the first file, executes the first command, pipes the output to the second command, and then writes the final output to the second file.
